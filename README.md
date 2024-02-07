@@ -1,3 +1,3 @@
 # K-means-Algorithm
 
-Applying an AI-algorithm on FIFA players
+Applying ML on FIFA players
